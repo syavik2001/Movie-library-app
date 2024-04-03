@@ -1,0 +1,677 @@
+[
+	{
+		"title": "The Shawshank Redemption",
+		"author": "Frank Darabont",
+		"year": 1994
+	},
+	{
+		"title": "Schindler's List",
+		"author": "Steven Spielberg",
+		"year": 1993
+	},
+	{
+		"title": "Pulp Fiction",
+		"author": "Quentin Tarantino",
+		"year": 1994
+	},
+	{
+		"title": "Forrest Gump",
+		"author": "Robert Zemeckis",
+		"year": 1994
+	},
+	{
+		"title": "The Silence of the Lambs",
+		"author": "Jonathan Demme",
+		"year": 1991
+	},
+	{
+		"title": "The Lion King",
+		"author": "Roger Allers, Rob Minkoff",
+		"year": 1994
+	},
+	{
+		"title": "Goodfellas",
+		"author": "Martin Scorsese",
+		"year": 1990
+	},
+	{
+		"title": "Jurassic Park",
+		"author": "Steven Spielberg",
+		"year": 1993
+	},
+	{
+		"title": "The Godfather: Part III",
+		"author": "Francis Ford Coppola",
+		"year": 1990
+	},
+	{
+		"title": "The Sixth Sense",
+		"author": "M. Night Shyamalan",
+		"year": 1999
+	},
+	{
+		"title": "Terminator 2: Judgment Day",
+		"author": "James Cameron",
+		"year": 1991
+	},
+	{
+		"title": "Reservoir Dogs",
+		"author": "Quentin Tarantino",
+		"year": 1992
+	},
+	{
+		"title": "Groundhog Day",
+		"author": "Harold Ramis",
+		"year": 1993
+	},
+	{
+		"title": "The Truman Show",
+		"author": "Peter Weir",
+		"year": 1998
+	},
+	{
+		"title": "The Godfather: Part II",
+		"author": "Francis Ford Coppola",
+		"year": 1974
+	},
+	{
+		"title": "A Few Good Men",
+		"author": "Rob Reiner",
+		"year": 1992
+	},
+	{
+		"title": "The Fugitive",
+		"author": "Andrew Davis",
+		"year": 1993
+	},
+	{
+		"title": "Beauty and the Beast",
+		"author": "Gary Trousdale, Kirk Wise",
+		"year": 1991
+	},
+	{
+		"title": "Braveheart",
+		"author": "Mel Gibson",
+		"year": 1995
+	},
+	{
+		"title": "The Nightmare Before Christmas",
+		"author": "Henry Selick",
+		"year": 1993
+	},
+	{
+		"title": "Philadelphia",
+		"author": "Jonathan Demme",
+		"year": 1993
+	},
+	{
+		"title": "The Player",
+		"author": "Robert Altman",
+		"year": 1992
+	},
+	{
+		"title": "L.A. Confidential",
+		"author": "Curtis Hanson",
+		"year": 1997
+	},
+	{
+		"title": "Edward Scissorhands",
+		"author": "Tim Burton",
+		"year": 1990
+	},
+	{
+		"title": "Schindler's List",
+		"author": "Steven Spielberg",
+		"year": 1993
+	},
+	{
+		"title": "JFK",
+		"author": "Oliver Stone",
+		"year": 1991
+	},
+	{
+		"title": "Cape Fear",
+		"author": "Martin Scorsese",
+		"year": 1991
+	},
+	{
+		"title": "The Player",
+		"author": "Robert Altman",
+		"year": 1992
+	},
+	{
+		"title": "JFK",
+		"author": "Oliver Stone",
+		"year": 1991
+	},
+	{
+		"title": "Cape Fear",
+		"author": "Martin Scorsese",
+		"year": 1991
+	},
+	{
+		"title": "Unforgiven",
+		"author": "Clint Eastwood",
+		"year": 1992
+	},
+	{
+		"title": "The Last of the Mohicans",
+		"author": "Michael Mann",
+		"year": 1992
+	},
+	{
+		"title": "The Remains of the Day",
+		"author": "James Ivory",
+		"year": 1993
+	},
+	{
+		"title": "Scent of a Woman",
+		"author": "Martin Brest",
+		"year": 1992
+	},
+	{
+		"title": "Schindler's List",
+		"author": "Steven Spielberg",
+		"year": 1993
+	},
+	{
+		"title": "JFK",
+		"author": "Oliver Stone",
+		"year": 1991
+	},
+	{
+		"title": "Cape Fear",
+		"author": "Martin Scorsese",
+		"year": 1991
+	},
+	{
+		"title": "Unforgiven",
+		"author": "Clint Eastwood",
+		"year": 1992
+	},
+	{
+		"title": "The Last of the Mohicans",
+		"author": "Michael Mann",
+		"year": 1992
+	},
+	{
+		"title": "The Remains of the Day",
+		"author": "James Ivory",
+		"year": 1993
+	},
+	{
+		"title": "Scent of a Woman",
+		"author": "Martin Brest",
+		"year": 1992
+	},
+	{
+		"title": "A League of Their Own",
+		"author": "Penny Marshall",
+		"year": 1992
+	},
+	{
+		"title": "The Bodyguard",
+		"author": "Mick Jackson",
+		"year": 1992
+	},
+	{
+		"title": "Speed",
+		"author": "Jan de Bont",
+		"year": 1994
+	},
+	{
+		"title": "Sleepless in Seattle",
+		"author": "Nora Ephron",
+		"year": 1993
+	},
+	{
+		"title": "Dead Poets Society",
+		"author": "Peter Weir",
+		"year": 1989
+	},
+	{
+		"title": "A Few Good Men",
+		"author": "Rob Reiner",
+		"year": 1992
+	},
+	{
+		"title": "The Shawshank Redemption",
+		"author": "Frank Darabont",
+		"year": 1994
+	},
+	{
+		"title": "The Godfather",
+		"author": "Francis Ford Coppola",
+		"year": 1972
+	},
+	{
+		"title": "The Dark Knight",
+		"author": "Christopher Nolan",
+		"year": 2008
+	},
+	{
+		"title": "Schindler's List",
+		"author": "Steven Spielberg",
+		"year": 1993
+	},
+	{
+		"title": "Pulp Fiction",
+		"author": "Quentin Tarantino",
+		"year": 1994
+	},
+	{
+		"title": "The Lord of the Rings: The Return of the King",
+		"author": "Peter Jackson",
+		"year": 2003
+	},
+	{
+		"title": "Forrest Gump",
+		"author": "Robert Zemeckis",
+		"year": 1994
+	},
+	{
+		"title": "Inception",
+		"author": "Christopher Nolan",
+		"year": 2010
+	},
+	{
+		"title": "The Matrix",
+		"author": "The Wachowskis",
+		"year": 1999
+	},
+	{
+		"title": "The Silence of the Lambs",
+		"author": "Jonathan Demme",
+		"year": 1991
+	},
+	{
+		"title": "Star Wars: Episode V - The Empire Strikes Back",
+		"author": "Irvin Kershner",
+		"year": 1980
+	},
+	{
+		"title": "Se7en",
+		"author": "David Fincher",
+		"year": 1995
+	},
+	{
+		"title": "The Lord of the Rings: The Fellowship of the Ring",
+		"author": "Peter Jackson",
+		"year": 2001
+	},
+	{
+		"title": "Fight Club",
+		"author": "David Fincher",
+		"year": 1999
+	},
+	{
+		"title": "The Green Mile",
+		"author": "Frank Darabont",
+		"year": 1999
+	},
+	{
+		"title": "Goodfellas",
+		"author": "Martin Scorsese",
+		"year": 1990
+	},
+	{
+		"title": "The Lord of the Rings: The Two Towers",
+		"author": "Peter Jackson",
+		"year": 2002
+	},
+	{
+		"title": "The Usual Suspects",
+		"author": "Bryan Singer",
+		"year": 1995
+	},
+	{
+		"title": "Saving Private Ryan",
+		"author": "Steven Spielberg",
+		"year": 1998
+	},
+	{
+		"title": "The Departed",
+		"author": "Martin Scorsese",
+		"year": 2006
+	},
+	{
+		"title": "Gladiator",
+		"author": "Ridley Scott",
+		"year": 2000
+	},
+	{
+		"title": "The Prestige",
+		"author": "Christopher Nolan",
+		"year": 2006
+	},
+	{
+		"title": "American History X",
+		"author": "Tony Kaye",
+		"year": 1998
+	},
+	{
+		"title": "The Sixth Sense",
+		"author": "M. Night Shyamalan",
+		"year": 1999
+	},
+	{
+		"title": "The Pianist",
+		"author": "Roman Polanski",
+		"year": 2002
+	},
+	{
+		"title": "Titanic",
+		"author": "James Cameron",
+		"year": 1997
+	},
+	{
+		"title": "The Truman Show",
+		"author": "Peter Weir",
+		"year": 1998
+	},
+	{
+		"title": "The Big Lebowski",
+		"author": "Joel Coen, Ethan Coen",
+		"year": 1998
+	},
+	{
+		"title": "The Godfather: Part II",
+		"author": "Francis Ford Coppola",
+		"year": 1974
+	},
+	{
+		"title": "The Social Network",
+		"author": "David Fincher",
+		"year": 2010
+	},
+	{
+		"title": "A Beautiful Mind",
+		"author": "Ron Howard",
+		"year": 2001
+	},
+	{
+		"title": "Inglourious Basterds",
+		"author": "Quentin Tarantino",
+		"year": 2009
+	},
+	{
+		"title": "The Grand Budapest Hotel",
+		"author": "Wes Anderson",
+		"year": 2014
+	},
+	{
+		"title": "Spirited Away",
+		"author": "Hayao Miyazaki",
+		"year": 2001
+	},
+	{
+		"title": "The Terminator",
+		"author": "James Cameron",
+		"year": 1984
+	},
+	{
+		"title": "The Shining",
+		"author": "Stanley Kubrick",
+		"year": 1980
+	},
+	{
+		"title": "Terminator 2: Judgment Day",
+		"author": "James Cameron",
+		"year": 1991
+	},
+	{
+		"title": "The Intouchables",
+		"author": "Olivier Nakache, Éric Toledano",
+		"year": 2011
+	},
+	{
+		"title": "A Clockwork Orange",
+		"author": "Stanley Kubrick",
+		"year": 1971
+	},
+	{
+		"title": "Snatch",
+		"author": "Guy Ritchie",
+		"year": 2000
+	},
+	{
+		"title": "Reservoir Dogs",
+		"author": "Quentin Tarantino",
+		"year": 1992
+	},
+	{
+		"title": "Groundhog Day",
+		"author": "Harold Ramis",
+		"year": 1993
+	},
+	{
+		"title": "The Shawshank Redemption",
+		"author": "Frank Darabont",
+		"year": 1994
+	},
+	{
+		"title": "The Godfather",
+		"author": "Francis Ford Coppola",
+		"year": 1972
+	},
+	{
+		"title": "The Dark Knight",
+		"author": "Christopher Nolan",
+		"year": 2008
+	},
+	{
+		"title": "Schindler's List",
+		"author": "Steven Spielberg",
+		"year": 1993
+	},
+	{
+		"title": "Pulp Fiction",
+		"author": "Quentin Tarantino",
+		"year": 1994
+	},
+	{
+		"title": "The Lord of the Rings: The Return of the King",
+		"author": "Peter Jackson",
+		"year": 2003
+	},
+	{
+		"title": "Inception",
+		"author": "Christopher Nolan",
+		"year": 2010
+	},
+	{
+		"title": "The Matrix",
+		"author": "The Wachowskis",
+		"year": 1999
+	},
+	{
+		"title": "The Silence of the Lambs",
+		"author": "Jonathan Demme",
+		"year": 1991
+	},
+	{
+		"title": "Star Wars: Episode V - The Empire Strikes Back",
+		"author": "Irvin Kershner",
+		"year": 1980
+	},
+	{
+		"title": "Se7en",
+		"author": "David Fincher",
+		"year": 1995
+	},
+	{
+		"title": "The Lord of the Rings: The Fellowship of the Ring",
+		"author": "Peter Jackson",
+		"year": 2001
+	},
+	{
+		"title": "The Green Mile",
+		"author": "Frank Darabont",
+		"year": 1999
+	},
+	{
+		"title": "Goodfellas",
+		"author": "Martin Scorsese",
+		"year": 1990
+	},
+	{
+		"title": "The Lord of the Rings: The Two Towers",
+		"author": "Peter Jackson",
+		"year": 2002
+	},
+	{
+		"title": "The Usual Suspects",
+		"author": "Bryan Singer",
+		"year": 1995
+	},
+	{
+		"title": "Saving Private Ryan",
+		"author": "Steven Spielberg",
+		"year": 1998
+	},
+	{
+		"title": "The Departed",
+		"author": "Martin Scorsese",
+		"year": 2006
+	},
+	{
+		"title": "Gladiator",
+		"author": "Ridley Scott",
+		"year": 2000
+	},
+	{
+		"title": "The Prestige",
+		"author": "Christopher Nolan",
+		"year": 2006
+	},
+	{
+		"title": "American History X",
+		"author": "Tony Kaye",
+		"year": 1998
+	},
+	{
+		"title": "The Sixth Sense",
+		"author": "M. Night Shyamalan",
+		"year": 1999
+	},
+	{
+		"title": "The Pianist",
+		"author": "Roman Polanski",
+		"year": 2002
+	},
+	{
+		"title": "Titanic",
+		"author": "James Cameron",
+		"year": 1997
+	},
+	{
+		"title": "The Truman Show",
+		"author": "Peter Weir",
+		"year": 1998
+	},
+	{
+		"title": "The Big Lebowski",
+		"author": "Joel Coen, Ethan Coen",
+		"year": 1998
+	},
+	{
+		"title": "The Godfather: Part II",
+		"author": "Francis Ford Coppola",
+		"year": 1974
+	},
+	{
+		"title": "A Beautiful Mind",
+		"author": "Ron Howard",
+		"year": 2001
+	},
+	{
+		"title": "Inglourious Basterds",
+		"author": "Quentin Tarantino",
+		"year": 2009
+	},
+	{
+		"title": "The Grand Budapest Hotel",
+		"author": "Wes Anderson",
+		"year": 2014
+	},
+	{
+		"title": "Spirited Away",
+		"author": "Hayao Miyazaki",
+		"year": 2001
+	},
+	{
+		"title": "The Shining",
+		"author": "Stanley Kubrick",
+		"year": 1980
+	},
+	{
+		"title": "The Intouchables",
+		"author": "Olivier Nakache, Éric Toledano",
+		"year": 2011
+	},
+	{
+		"title": "A Clockwork Orange",
+		"author": "Stanley Kubrick",
+		"year": 1971
+	},
+	{
+		"title": "Snatch",
+		"author": "Guy Ritchie",
+		"year": 2000
+	},
+	{
+		"title": "Reservoir Dogs",
+		"author": "Quentin Tarantino",
+		"year": 1992
+	},
+	{
+		"title": "Groundhog Day",
+		"author": "Harold Ramis",
+		"year": 1993
+	},
+	{
+		"title": "2001: A Space Odyssey",
+		"author": "Stanley Kubrick",
+		"year": 1968
+	},
+	{
+		"title": "Eternal Sunshine of the Spotless Mind",
+		"author": "Michel Gondry",
+		"year": 2004
+	},
+	{
+		"title": "Monty Python and the Holy Grail",
+		"author": "Terry Gilliam, Terry Jones",
+		"year": 1975
+	},
+	{
+		"title": "Indiana Jones and the Last Crusade",
+		"author": "Steven Spielberg",
+		"year": 1989
+	},
+	{
+		"title": "Catch Me If You Can",
+		"author": "Steven Spielberg",
+		"year": 2002
+	},
+	{
+		"title": "V for Vendetta",
+		"author": "James McTeigue",
+		"year": 2005
+	},
+	{
+		"title": "Trainspotting",
+		"author": "Danny Boyle",
+		"year": 1996
+	},
+	{
+		"title": "American Beauty",
+		"author": "Sam Mendes",
+		"year": 1999
+	},
+	{
+		"title": "The Deer Hunter",
+		"author": "Michael Cimino",
+		"year": 1978
+	}
+]
