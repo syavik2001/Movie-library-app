@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="app">
       <header className='app-header'>
-        <img src="Movie-library-app/free-icon-video-library-11344902.png" alt="logo" />
+        <img src="free-icon-video-library-11344902.png" alt="logo" />
         <h1>Movie Library App</h1>
       </header>
       <main className="app-main">
